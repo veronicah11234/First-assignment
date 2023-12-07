@@ -1,0 +1,16 @@
+.top-nav{
+    background-color:rgb(178, 190, 245) ;
+    padding: 20px 0;
+
+}
+.top-nav ul li{
+    display: inline;
+    padding: 14px 28px;
+}
+.top-nav ul a{
+ text-decoration: purple;
+ font-weight: bold;       
+ }
+ .top-nav ul a :hover{
+opacity: 0.8;
+ }
